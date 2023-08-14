@@ -1,0 +1,4 @@
+Develop a python program that could search the text in a file for phone numbers (+919900889977) and email addresses (sample@gmail.com)
+9731860584
+Phone number 9787836778
+email id tejaswini@gmail.com
